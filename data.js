@@ -1565,6 +1565,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/janl/mustache.js/master/mustache.js"
   },
   {
+    name: "micromustache",
+    tags: ["templating"],
+    description: "An extremely fast and small sub-implementation of the core {{mustache}} use case: interpolation",
+    url: "https://github.com/userpixel/micromustache",
+    source: "https://raw.githubusercontent.com/userpixel/micromustache/blob/master/browser/micromustache.min.js"
+  },
+  {
     name: "LABjs",
     tags: ["loader"],
     description: "The *performance* script loader: on-demand parallel script loading with ordered execution for dependencies.",
